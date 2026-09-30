@@ -12,6 +12,9 @@
       <Edit />
     </el-icon>
   </div>
+  <div>
+    <a href="">这是一个链接 </a>
+  </div>
 </template>
 
 <style scoped></style>
